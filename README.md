@@ -6,4 +6,4 @@ Este es un repositorio de ejemplo
 2. dfjkldjfls
 3. hsuryfhief
 
-[GitHub] (https://github.com)
+[GitHub](https://github.com)
